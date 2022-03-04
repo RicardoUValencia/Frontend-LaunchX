@@ -15,7 +15,7 @@
       <td> Licenciatura </td>
     </tr>
     <tr>
-      <td> Canales de comunicacion </td>
+      <td> Canales de comunicación </td>
       <td> Medios digitales </td>
     </tr>
     <tr>
@@ -36,7 +36,7 @@
     </tr>
     <tr>
       <td> Dificultades principales </td>
-      <td> Terminologia legal </td>
+      <td> Terminología legal </td>
     </tr>
     <tr>
       <td> Industria </td>
