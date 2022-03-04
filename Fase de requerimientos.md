@@ -4,7 +4,7 @@
 Automatizar demandas de clientes en un despacho de abogados.
 <br>
 <h3>2.	Fase de formalización.</h3>
-Se planean HU (Historias de Usuario) estas divididas en tres sprint que se desarrollarán y cumplirán en dos semanas:
+Se planean HU (Historias de Usuario) estas divididas en tres sprint que se desarrollarán y cumplirán cada dos semanas:
 <br>
 -	ABot-01: Como administrador de sistema quiero que el formulario una vez lleno sea capaz de crear automáticamente el documento legal para iniciar el proceso.
 <br>
